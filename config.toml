@@ -11,5 +11,5 @@ googleAnalytics = "UA-85083093-3"
 
 [params]
   description = "#YOLO."
-  images = ["images/logo.png"]
+  images = ["images/htkac/cover_alt.png"]
   title = "How to kill a Chinaman"
