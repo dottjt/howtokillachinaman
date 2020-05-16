@@ -8,4 +8,4 @@
 
 How to kill a Chinaman is a novel.
 
-Hit me up on my email if you'd like to chat about it: julius.reade@gmail.com
+If you'd like to chat about it: julius.reade@gmail.com
